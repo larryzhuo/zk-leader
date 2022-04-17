@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "ss"
+    "url": "git@github.com:larryzhuo/zk-leader.git"
   },
   "keywords": [
     "zookeeper",
