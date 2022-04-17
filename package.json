@@ -1,0 +1,27 @@
+{
+  "name": "zk-leader",
+  "version": "1.0.0",
+  "description": "Leader election implement by zookeeper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ss"
+  },
+  "keywords": [
+    "zookeeper",
+    "leader",
+    "election"
+  ],
+  "author": "larryz",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^17.0.24"
+  },
+  "dependencies": {
+    "zookeeper": "^5.3.2"
+  }
+}
